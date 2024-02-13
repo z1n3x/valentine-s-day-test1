@@ -27,37 +27,35 @@ h1 {
 }
 
 .image {
-    width: 20rem;
-    height: 25rem;
+    width: 25rem;
+    height: 20rem;
     border-radius: 2em;
     background-image: url("./img/cutegif.gif");
-    background-position: top;
+    background-position: center;
     background-size: cover;
     float: left; 
     max-width: 100%;
 }
 .image2 {
-    width: 30rem;
-    height: 30rem;
+    width: 25rem;
+    height: 25rem;
     border-radius: 2em;
     background-image: url("./img/miau.gif");
-    background-position: top;
+    background-position: center;
     background-size: cover;
     float: left; 
     max-width: 100%;
-
 
 }
 .image3 {
-    width: 30rem;
-    height: 30rem;
+    width: 25rem;
+    height: 25rem;
     border-radius: 2em;
     background-image: url("./img/cat.gif");
-    background-position: top;
+    background-position: center;
     background-size: cover;
     float: left; 
     max-width: 100%;
-
 
 }
 .image4 {
@@ -65,11 +63,10 @@ h1 {
     height: 30rem;
     border-radius: 2em;
     background-image: url("./img/funny-cat-cat.gif");
-    background-position: top;
+    background-position: center;
     background-size: cover;
     float: left; 
     max-width: 100%;
-
 }
 .btns {
     position: relative;
